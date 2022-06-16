@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/client/src/app/auth/login/login.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/src/app/auth/register/register.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/src/app/layout/navigation/navigation.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/src/app/user/add-post/add-post.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/src/app/user/add-post/add-post.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/src/app/user/profile/profile.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
